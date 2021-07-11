@@ -20,7 +20,7 @@ if __name__ == "__main__":
     s = turtle.Screen()
     t = turtle.Turtle()
 
-    t.speed(8)
+    t.speed(0)
     t.width(3)
 
     #drawRect(1,1)
